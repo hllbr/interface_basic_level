@@ -1,5 +1,5 @@
 
-public class EEM implements IMuhendis,ICalısma{
+public class EEM implements IMuhendis,ICalısma{//normal java class
 
     @Override
     public void calıs() {
