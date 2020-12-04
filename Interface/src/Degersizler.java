@@ -1,5 +1,5 @@
 
-public class Degersizler implements IMuhendis{//pC MUHENDİSİ
+public class Degersizler implements IMuhendis{//normal java class
 private boolean askerlik;
 private boolean adli_sicil;
 
