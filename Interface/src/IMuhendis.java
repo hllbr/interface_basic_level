@@ -1,5 +1,5 @@
 
-public interface IMuhendis {
+public interface IMuhendis {//interface
     //interfaceler bir çeşit class sayılır.public private ile yapı oluşturulabilir fakat obje oluşturamadığımız için gerek yok böyle bir yapıyı kurmaya
     
     void askerlik_sorgula();
