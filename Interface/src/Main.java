@@ -1,6 +1,7 @@
 
 public class Main {
     public static void main(String[] args){
+        //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
         /*
         arayüz ve arabirim kavramları
         inheritance ile benzer classların ortak özelliklerini tek bir çatı altında birleştirip daha sonra bu classları türetebiliyorduk
